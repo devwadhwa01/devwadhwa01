@@ -1,2 +1,2 @@
-# Profile
-Main page of my GitHub profile
+# Dev Wadhwa
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
