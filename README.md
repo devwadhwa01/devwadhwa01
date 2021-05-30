@@ -1,4 +1,4 @@
-<p align="center" style="font-size:40px;">
-Dev Wadhwa
-</p>
+
+#Dev Wadhwa
+
 ![](https://komarev.com/ghpvc/?username=devwadhwa01&color=blue)
