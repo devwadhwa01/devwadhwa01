@@ -6,8 +6,8 @@
 - I’m currently working on **Full Stack Web Development**
 - I’m currently learning **Backend Development and Competitive Coding**
 - I'm planning to get my hands into **OpenCV Development**
-- I’m looking forward to collaborate on Web Development Projects or AR Filters using Sparks AR Studio
-- Ask me about Web Development or AR Filters
+- I’m looking forward to collaborate on **Web Development Projects or AR Filters using Sparks AR Studio**
+- Ask me about **Web Development or AR Filters**
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=devwadhwa01&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 </p>
