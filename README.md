@@ -2,6 +2,7 @@
 <h3 align="center"> Front-End Web Developer </h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devwadhwa01" alt="Dev Wadhwa Profile Views" /> </p>
+
 - I’m currently working on **Full Stack Web Development**
 - I’m currently learning **Backend Development and Competitive Coding**
 - I'm planning to get my hands into **OpenCV Development**
