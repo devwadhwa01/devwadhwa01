@@ -23,7 +23,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devwadhwa01&theme=dark">
 </p>
 
-<h3 align="center"> Connect with me:</h3>
+<h3 align="center"> Connect with me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/dev-wadhwa/" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" target="_blank" alt="Linkedin" width="40px" >
