@@ -2,7 +2,6 @@
 <h3 align="center"> Front-End Web Developer </h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devwadhwa01" alt="Dev Wadhwa Profile Views" /> </p>
-
 - I’m currently working on **Full Stack Web Development**
 - I’m currently learning **Backend Development and Competitive Coding**
 - I'm planning to get my hands into **OpenCV Development**
@@ -13,11 +12,10 @@
 </p>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwadhwa01&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
+<br>
 </p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devwadhwa01&theme=dark">
 </p>
-
-
 <h3 align="center"> Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/dev-wadhwa/" target="_blank">
