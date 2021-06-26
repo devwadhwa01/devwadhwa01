@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I am Dev Wadhwa</h1>
 <h3 align="center"> Front-End Web Developer </h3>
-<br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devwadhwa01" alt="Dev Wadhwa Profile Views" /> </p>
 
 - I’m currently working on **Full Stack Web Development**
