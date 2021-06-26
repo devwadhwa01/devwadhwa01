@@ -15,12 +15,12 @@
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwadhwa01&layout=compact&theme=dark">  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwadhwa01&layout=compact&theme=dark" />  
 </p>
 
 <br>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devwadhwa01&theme=dark">
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devwadhwa01&theme=dark" />
 </p>
 
 <h3 align="center"> Connect with me</h3>
