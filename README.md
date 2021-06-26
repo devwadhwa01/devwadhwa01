@@ -10,7 +10,7 @@
 - Ask me about **Web Development or AR Filters**
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=devwadhwa01&show_icons=true&hide_border=false&theme=dark">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=devwadhwa01&show_icons=true&hide_border=false&theme=dark" />
 </p>
 
 <br>
