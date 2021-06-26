@@ -9,14 +9,20 @@
 - I’m looking forward to collaborate on **Web Development Projects or AR Filters using Sparks AR Studio**
 - Ask me about **Web Development or AR Filters**
 <br>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=devwadhwa01&show_icons=true&hide_border=true&theme=dark">
 </p>
+
 <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwadhwa01&layout=compact&theme=dark">
-<br><br>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwadhwa01&layout=compact&theme=dark">  
 </p>
+
+<br>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devwadhwa01&theme=dark">
 </p>
+
 <h3 align="center"> Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/dev-wadhwa/" target="_blank">
