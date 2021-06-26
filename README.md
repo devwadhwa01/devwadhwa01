@@ -8,12 +8,10 @@
 - I'm planning to get my hands into **OpenCV Development**
 - I’m looking forward to collaborate on Web Development Projects or AR Filters using Sparks AR Studio
 - Ask me about Web Development or AR Filters
-
-<h3 align="center"><b>My Github Stats!</h3></p>
+<br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=devwadhwa01&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 </p>
-
-<h3 align="center"><b>Most Used Languages</h3></p>
+<br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwadhwa01&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 </p>
 
