@@ -20,7 +20,7 @@
 
 <br>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devwadhwa01&theme=dark" />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devwadhwa01&theme=light" />
 </p>
 
 <h3 align="center"> Connect with me</h3>
