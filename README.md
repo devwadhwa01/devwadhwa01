@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devwadhwa01" alt="Dev Wadhwa Profile Views" /> </p>
 
 - I’m currently working on **Front-end Web Development**
-- I’m learning **Backend Development and Competitive Coding**
+- I’m learning **Flutter App Development and Competitive Coding**
 - I'm planning to get my hands into **OpenCV Development**
 - I’m looking forward to collaborate on **Web Development Projects or AR Filters using Sparks AR Studio**
 - Ask me about **Web Development or AR Filters**
