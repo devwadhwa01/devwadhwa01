@@ -10,22 +10,22 @@
 - Ask me about **Web Development or AR Filters**
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=devwadhwa01&show_icons=true&hide_border=false&theme=dark&include_all_commits=true&count_private=true" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=devwadhwa01&show_icons=true&hide_border=false&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
 </p>
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwadhwa01&layout=compact&theme=dark" />  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwadhwa01&layout=compact&theme=dark&hide_border=true" />  
 </p>
 
 <br>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devwadhwa01&theme=dark" />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devwadhwa01&theme=dark&hide_border=true" />
 </p>
 
 <br>
 
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=devwadhwa01&bg_color=0D1117&color=FFFFFF&line=FFA500&point=FFFFFF"/>
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=devwadhwa01&bg_color=0D1117&color=FFFFFF&line=FFA500&point=FFFFFF&hide_border=true"/>
 </p>
 
 
