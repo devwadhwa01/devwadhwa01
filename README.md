@@ -23,6 +23,12 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devwadhwa01&theme=dark" />
 </p>
 
+<br>
+
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=devwadhwa01&bg_color=0D1117&color=FFFFFF&line=FFA500&point=FFFFFF"/>
+</p>
+
+
 <h3 align="center"> Connect with me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/dev-wadhwa/" target="_blank">
