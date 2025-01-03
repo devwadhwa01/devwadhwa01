@@ -18,8 +18,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwadhwa01&layout=compact&theme=dark&hide_border=true" />  
 </p>
 
-<br>
-
 
 <h3 align="center"> Connect with me</h3>
 <div align="center">
